@@ -15,8 +15,8 @@
 
 **CIDR (Classless Inter-Domain Routing)** is a method of defining IP address ranges.
 
-**Format:**  
-<IP Address>/<Prefix Length>
+- **Format:**
+`<IP Address>/<Prefix Length>`
 
 Example: `10.0.0.0/16`
 
